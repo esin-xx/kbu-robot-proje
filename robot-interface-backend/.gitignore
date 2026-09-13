@@ -1,0 +1,4 @@
+node_modules
+.env
+menu-raw.txt
+menu-table.json
